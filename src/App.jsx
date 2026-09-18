@@ -4,6 +4,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 
 import MainLayout from "./layouts/MainLayout";
+import ScrollProgress from "./components/ScrollProgress";
 import Home from './pages/Home'
 import About from './pages/About'
 import ContactUs from './pages/ContactUs'
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <>
+      <ScrollProgress />
       <Router>
         <Routes >
           {/* Routes */}
