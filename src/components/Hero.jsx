@@ -138,16 +138,16 @@ const Hero = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.3, duration: 0.8 }}
         >
-          Technology that moves<br />business forward.
+          Tally Customization & Software Development<br />for Growing Businesses
         </motion.h2>
         
         <motion.p
           initial={{ y: 30, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5, duration: 0.8 }}
-          className="max-w-2xl mx-auto"
+          className="max-w-3xl mx-auto"
         >
-          FlowupS Technologies Pvt. Ltd. builds practical software products and digital solutions for modern businesses.
+          FlowupS Technologies Pvt. Ltd. helps businesses build practical Tally solutions, custom software, integrations, dashboards, and support systems that match real business workflows.
         </motion.p>
 
         <motion.div 
@@ -162,7 +162,7 @@ const Hero = () => {
             whileHover={{ scale: 1.05, boxShadow: "0 20px 40px rgba(59, 130, 246, 0.5)" }}
             whileTap={{ scale: 0.95 }}
           >
-            Talk to Our Team
+            Discuss Your Requirement
           </motion.a>
 
           <motion.a
@@ -171,7 +171,7 @@ const Hero = () => {
             whileHover={{ scale: 1.05, backgroundColor: "rgba(255,255,255,0.15)" }}
             whileTap={{ scale: 0.95 }}
           >
-            Explore Solutions
+            Explore Our Solutions
           </motion.a>
         </motion.div>
       </div>
