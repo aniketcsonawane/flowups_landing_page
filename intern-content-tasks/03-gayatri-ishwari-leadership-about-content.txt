@@ -1,0 +1,157 @@
+
+Your responsibility:
+About page and Leadership & Team section.
+
+Important:
+- Company name must be exactly: FlowupS Technologies Pvt. Ltd.
+- Website company sathi aahe, product sathi nahi.
+- CallDesk and Sathi Connect are products, not company names.
+- Leadership section professional, premium, clean, and trustworthy disayla pahije.
+
+Where to change:
+1. About page:
+   File: src/pages/About.jsx
+
+2. If reusable About component is used anywhere:
+   File: src/components/About.jsx
+
+3. Home about/company intro section if team highlight is added on home:
+   File: src/components/LandingSections.jsx
+
+4. Styling if layout change needed:
+   File: src/assets/css/main.css
+
+Suggested URL/page:
+- /about_us
+
+Use this content:
+
+------------------------------------------------------------
+ABOUT PAGE EXPANDED CONTENT
+------------------------------------------------------------
+
+About title:
+About FlowupS Technologies Pvt. Ltd.
+
+About intro:
+FlowupS Technologies Pvt. Ltd. is a business technology company focused on Tally customization, integration, and custom software development. We help businesses build systems that match their actual workflow, improve operational control, and reduce manual effort.
+
+Company story:
+FlowupS was built with a clear understanding that businesses do not need complicated technology. They need practical systems that solve real operational problems. With experience in Tally customization, business logic, requirement gathering, software development, sales coordination, and client support, our team works closely with clients to design solutions that fit their daily work.
+
+Mission:
+To deliver practical, reliable, and business-focused technology solutions that simplify operations, improve accuracy, and help companies grow with better control.
+
+Vision:
+To become a trusted technology partner for businesses that need Tally customization, software development, integration, automation, and long-term support.
+
+Values:
+- Practical problem solving
+- Clear communication
+- Business-first thinking
+- Reliable implementation
+- Long-term support
+- Continuous improvement
+
+------------------------------------------------------------
+LEADERSHIP & TEAM SECTION
+------------------------------------------------------------
+
+Section title:
+Leadership & Team
+
+Section intro:
+FlowupS Technologies Pvt. Ltd. is powered by directors, developers, sales professionals, support specialists, and technical advisors. Together, the team brings strong business understanding, Tally expertise, software development capability, sales experience, and dependable client support.
+
+------------------------------------------------------------
+LEADERSHIP PROFILES
+------------------------------------------------------------
+
+Ranjit Ambare
+Role: Director - Tally Customization & Integration
+
+Profile:
+Ranjit brings over 12 years of industry experience in Tally customization, integration, and business process automation. He specializes in understanding complex business logic, preparing complete software schemas, and guiding development teams with practical technical inputs throughout the project lifecycle.
+
+Anjan Ambre
+Role: Director - Sales, Requirements & Finance
+
+Profile:
+Anjan leads sales, client communication, requirement gathering, finance, and client-side support at FlowupS Technologies. With strong business understanding and customer handling skills, he ensures that every solution begins with clear requirements and continues with reliable client coordination.
+
+Aniket Sonawane
+Role: Full Stack Developer / Team Lead
+
+Profile:
+Aniket is a skilled full stack developer who works with strong ownership and team leadership. He contributes to software architecture, development, implementation, and coordination across projects, helping the team deliver reliable business applications.
+
+Sapana Padmane
+Role: Flutter Developer
+
+Profile:
+Sapana works on mobile application development using Flutter, creating responsive and user-friendly mobile experiences. She contributes to cross-platform applications that support business operations on mobile devices.
+
+Dipti Kanawade
+Role: TDL Developer
+
+Profile:
+Dipti specializes in Tally Definition Language development and Tally customization. She works on custom Tally modules, reports, vouchers, controls, and business-specific enhancements.
+
+------------------------------------------------------------
+TEAM GROUPS
+------------------------------------------------------------
+
+Development Team:
+Abhishek Kanawade, Sakhi Kasar, Gayatri Kute, and Ishwari Mhaske contribute to full stack software development across frontend, backend, database, dashboards, and workflow-based business modules.
+
+Sales Team:
+Mangesh Wakchaure supports sales communication, client coordination, inquiries, discussions, and onboarding support.
+
+Technical Advisors:
+Rohit Dave, Ashish Shinde, and Suraj Jadhav provide technical advisory support for architecture, implementation planning, development direction, and solution improvement.
+
+------------------------------------------------------------
+SUGGESTED ABOUT PAGE STRUCTURE
+------------------------------------------------------------
+
+1. Hero / Page title:
+   About FlowupS Technologies Pvt. Ltd.
+
+2. Company intro block:
+   Use About intro + Company story.
+
+3. Mission / Vision / Values:
+   Show 3 premium cards or clean two-column layout.
+
+4. Leadership & Team:
+   Show leadership profiles first:
+   - Ranjit Ambare
+   - Anjan Ambre
+   - Aniket Sonawane
+   - Sapana Padmane
+   - Dipti Kanawade
+
+5. Team groups:
+   - Development Team
+   - Sales Team
+   - Technical Advisors
+
+6. CTA:
+   "Talk to FlowupS Technologies"
+
+------------------------------------------------------------
+UI / DESIGN NOTES
+------------------------------------------------------------
+
+- Keep white background clean; only highlights blue.
+- Avoid childish cards or random colorful icons.
+- Use FlowupS blue/navy accent.
+- Team cards should look premium and compact.
+- If photos are not available, use initials or clean icon/avatar placeholders.
+- Do not use fake experience years except Ranjit profile where 12+ years is specified.
+- Make section readable on mobile.
+
+Final checklist:
+- Check spelling: FlowupS, Ranjit Ambare, Anjan Ambre, Aniket Sonawane, Sapana Padmane, Dipti Kanawade, Abhishek Kanawade, Sakhi Kasar, Gayatri Kute, Ishwari Mhaske, Mangesh Wakchaure.
+- Leadership section should be on About page or linked from About page.
+- Content should sound like a company profile, not a personal bio page only.

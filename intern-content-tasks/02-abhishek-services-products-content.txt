@@ -1,0 +1,519 @@
+Important positioning:
+- Website company sathi aahe, product sathi nahi.
+- Company name: FlowupS Technologies Pvt. Ltd.
+- Products: CallDesk and Sathi Connect.
+- Your task is services, products, Tally customization library, software development content, and industry-wise content.
+
+Where to change:
+1. Main services listing:
+   File: src/pages/Services.jsx
+   File: src/components/Services.jsx
+   File: src/components/Services2.jsx
+   File: src/components/ServicesShowcase.jsx
+
+2. Service data and service detail content:
+   File: data/serviceData.js
+
+3. Service detail page template:
+   File: src/components/ServiceDetails.jsx
+
+4. Tally customization detail page:
+   File: src/components/CustomizationPage.jsx
+
+5. Home product cards / product screenshots if product short content is used on home:
+   File: src/components/LandingSections.jsx
+
+Routes to verify:
+- /services
+- /services/tally
+- /services/crm
+- /services/web_development
+- /services/customization/:id
+
+Use this content:
+
+------------------------------------------------------------
+MAIN SERVICE CATEGORIES
+------------------------------------------------------------
+
+1. Tally Customized Solutions:
+FlowupS Technologies develops custom Tally Prime solutions for businesses that need more than standard accounting. Our Tally services include TDL development, Tally customization, reports, voucher controls, invoice formats, security modules, industry-specific workflows, and integration with external software.
+
+Key services:
+- Tally Prime customization
+- TDL module development
+- Tally report customization
+- Voucher and invoice customization
+- Tally API integration
+- Excel import and export utilities
+- User-wise security and approval controls
+- Industry-specific Tally modules
+- Tally implementation and support
+
+2. Software Development:
+We build custom software for businesses that need workflow-based systems, automation, dashboards, integrations, and mobile/web applications. Our software solutions are designed around business requirements, not generic templates.
+
+Key services:
+- Custom web application development
+- Full stack software development
+- Mobile app development using Flutter
+- CRM and ERP development
+- Business process automation
+- Dashboard and reporting systems
+- API development and integration
+- Support ticket systems
+- Database-driven business applications
+
+------------------------------------------------------------
+TALLY PAGE LAYOUT CONTENT
+------------------------------------------------------------
+
+Hero:
+Tally Customization & Integration Solutions
+
+Subtitle:
+Custom TDL modules, Tally Prime enhancements, reports, controls, and integrations built around your business process.
+
+CTA:
+Discuss Your Tally Requirement
+
+Service pillars:
+1. Tally Customization
+2. TDL Development
+3. Tally API Integration
+4. Industry Modules
+5. Reports & MIS
+6. Security & Controls
+
+Featured modules:
+- School / College ERP
+- Hospital Management
+- Petrol Pump
+- Garment Module
+- Audit Trail
+- Bank Statement Import
+- Auto Email
+- API Integration
+- Advanced Security
+- Warranty & AMC
+- Multi Settlement
+- Document Linking
+
+Full module library categories:
+- Industry Modules
+- Billing & Invoice
+- Inventory & Manufacturing
+- Reports & MIS
+- Security & Approval
+- GST & Compliance
+- Automation & Integration
+- Payment & Outstanding
+- Utility Modules
+
+------------------------------------------------------------
+TALLY CUSTOMIZATION CATEGORIES
+------------------------------------------------------------
+
+A. Industry-Specific Business Modules
+Content:
+FlowupS builds industry-specific Tally modules that match the actual working style of different businesses. These modules help manage billing, inventory, reports, settlements, customer records, operational entries, and financial posting from a structured Tally-based system.
+
+Modules:
+- School / College ERP
+- Wholesale Garment Module
+- Retail Garment Module
+- Mobile Shoppe / Home Appliances Module
+- Hospital Management Module
+- Petrol Pump Module
+- APMC / ADAT Module
+- Fruit ADAT Module
+- Jewellery Module
+- Dairy Integration via API
+- Glass Shop Module
+- Distribution Module
+- Share Market Module
+
+B. Billing, Invoice & POS Customization
+Content:
+Our invoice and billing customizations make Tally faster, cleaner, and more suitable for counter sales, wholesale billing, service billing, distribution, transport documentation, barcode billing, and payment collection. These modules reduce manual calculation, improve invoice presentation, and help users bill accurately.
+
+Modules:
+- POS Bill Printing
+- Smart Invoice Format
+- Barcode / QR Code Module
+- QR UPI and Bank Details in Invoice
+- QR Code of Total Invoice Amount
+- Rate After Discount
+- Coupon Discount
+- Party-wise Discount for All Items in Sales Invoice
+- Party-wise Category-wise Discount in Sales Invoice
+- Party-wise Stock Group-wise Discount in Sales Invoice
+- Party-wise Stock Group-wise Rate in Sales Invoice
+- Party-wise Stock Category-wise Rate in Sales Invoice
+- Stock Group or Item-wise Discount / Trade Discount Hierarchy
+- Item-wise Trade Discount in Invoice
+- Wholesale Rate, MRP Rate, HSN, GST Rate, and Last Purchase Cost in Entry
+- Profit Margin, HSN, GST Rate, and Last Sale Rate in Sales Invoice
+- Item Description Column in Invoice
+- Sort Stock Item Names in Invoice Printing
+- Batch Selection in Main Invoice Entry
+- Alternate Quantity Edit in Voucher Entry
+- Service Bill with Quantity Option
+- Transport LR / Lorry Receipt Module
+- Update Transport Details, Email, Export, and Print Invoice
+
+C. Inventory, Stock & Manufacturing
+Content:
+FlowupS develops inventory and manufacturing customizations for businesses that need tighter stock control, production tracking, material requests, batch handling, godown-wise visibility, and Excel-based stock import. These solutions improve stock accuracy and reduce repeated manual entries.
+
+Modules:
+- Advanced Godown TDL
+- Voucher Type-wise Stock Report
+- Auto Stock Journal for Manufacturing / Production Entry
+- Manufacturing Journal with Multi-Batch Support
+- Excel to Tally Stock Journal Import
+- Excel Import Auto Manufacturing Journal
+- Production Planning
+- Material Requisition Module
+- Purchase Requisition Note (PRN)
+- Item Auto Part Number Generation
+- Item Costing for Exporter Expenses Entry
+- Change Batch Name Title
+- Standard Price, Last Cost, Positive Stock, and Party Table
+- Sales Item Quantity Increase / Decrease by Percentage or Item-wise Rule
+
+D. Reports, MIS & Business Analysis
+Content:
+Our reporting and MIS modules help owners, accountants, and managers make faster decisions with clear, customized reports. These modules reduce dependence on Excel and provide business-specific visibility directly from Tally.
+
+Modules:
+- Advanced Outstanding Report
+- Group Outstanding All Bills
+- Voucher Type-wise Columnar Outstandings
+- Sales Purchase Bills Pending in Voucher Register with Opening Balance
+- Multi-Company Day Book, Ledger, Voucher Register, and Outstanding Reports
+- All MIS Reports
+- Cost Centre-wise P&L and Balance Sheet with Opening Balance
+- Schedule-wise Balance Sheet
+- Two Company Balance Comparison
+- Day Book as Cash Book with Separate Cash Column
+- Day Book as on System Date
+- Party-wise, item-wise, state-wise, group-wise, and voucher type-wise columnar reports
+
+E. Security, Controls & Approval Workflow
+Content:
+FlowupS security modules help businesses work safely in multi-user Tally environments. These controls restrict unauthorized entries, protect sensitive ledgers, prevent backdated changes, manage approvals, and improve internal accountability.
+
+Modules:
+- Advanced Security Module
+- Email OTP Login for Admin
+- Voucher Master and Transaction Date Lock Security
+- Voucher Entry Control
+- Voucher Security and Approval Module
+- User-wise Maker Checker Approver Workflow
+- Voucher Type-wise Period Lock
+- User-wise Credit Control Days for Sales Invoice
+- User-wise Group Security for Ledger Creation
+- User-wise Ledger Security for Invoice Entry
+- Hide Sales Rate, Purchase Rate, and Turnover User-wise
+- Inactive Add-On Option for Users
+- Recycle Bin Voucher Delete by Password
+- GSTR Return Date Lock
+
+F. GST, Tax & Compliance
+Content:
+Our compliance-focused Tally modules reduce manual reconciliation work and help businesses maintain better statutory records. These modules support GST reporting, TDS/TCS calculation, e-way bill visibility, audit preparation, and fixed asset depreciation workflows.
+
+Modules:
+- Clause 44 Report TDL
+- GST Transaction Details Clause 44 Final
+- GSTR 2B Import from Excel to Tally
+- GSTR 8A and GST Composition Reconciliation
+- GSTR Return Claimed Date
+- E-Way Bill Number in All Reports
+- Save E-Way Bill and E-Invoice User ID / Password
+- TDS and TCS Auto Calculation Module
+- TDS 26AS Reconciliation with Text File
+- HSN, GST Tax Details, and Profit Margin in Invoice Entry
+- Depreciation / Fixed Asset Module
+
+G. Import, Export, Email & Document Automation
+Content:
+FlowupS builds automation modules that reduce manual export, import, printing, and email work. These solutions help teams save time, maintain records, and communicate faster with customers, vendors, banks, and internal teams.
+
+Modules:
+- Auto Email Module
+- Bank Statement Import
+- Selected Ledgers PDF Export
+- Document Linking System
+- Excel to Tally Stock Journal Import
+- Excel Import Auto Manufacturing Journal
+- GSTR 2B Import from Excel to Tally
+- Auto Schedule Backup
+- Envelope Print and Address Book
+- RTGS / NEFT Letter
+- Loading Slip
+- Invoice Printing Settings Voucher Type-wise
+
+H. Payment, Receipt & Outstanding Management
+Content:
+Our payment and outstanding modules help businesses track collections, settle bills, manage salesman commission, reconcile accounts, and process payment-related documents with fewer manual steps.
+
+Modules:
+- Multi Settlement with Auto Receipt
+- Multi-Mode Receipt Options at Normal Sales Entry
+- Bill Settlement with Journal
+- FIFO On-Account Payment Clear from Ledger Vouchers
+- Clear Group Summary Payment
+- Payment-Based Discount Scheme
+- Salesman-wise Commission on Receipt
+- Broker / Salesman Module
+- Interest Calculation on Mahajani Basis
+- Ledger Reconciliation Accounts TDL
+- RTGS / NEFT Letter
+
+I. Workflow, Task & Utility Modules
+Content:
+FlowupS utility modules remove repetitive work and improve daily Tally usage. These small but powerful customizations help teams work faster, maintain consistency, and reduce mistakes.
+
+Modules:
+- Reminder and Task Manager Setup
+- Easy Auto Voucher Creation
+- Remove Narration and Copy Narration
+- Replace Ledger Name in Title Case or Upper Case
+- Random Bulk Cost Adjustment Entries
+- Set Cost Centre Name in Selected Voucher Entries
+- Sales Quotation Module with Order
+- Sales Quotation Module without Order
+- Sales Rate Increase / Decrease in Bulk
+- Multi Data Path for Multi-Company
+- Multi GSTIN / State-Wise GST Module
+
+------------------------------------------------------------
+SOFTWARE DEVELOPMENT DETAILED CONTENT
+------------------------------------------------------------
+
+Page title:
+Custom Software Development Services
+
+Page intro:
+FlowupS Technologies develops custom software for businesses that need systems built around their actual work process. We design and build web applications, mobile applications, CRM systems, ERP modules, dashboards, support platforms, and integration tools that improve operational efficiency.
+
+Our software development approach starts with understanding your business logic. We study how your team works, what data you manage, where manual effort happens, and what reports or controls are needed. Based on that, we prepare a practical software structure and develop a reliable solution.
+
+Services:
+
+Custom Web Application Development:
+We build browser-based applications for operations, accounts, sales, support, inventory, reporting, and management teams. These applications are easy to access, scalable, and suitable for daily business use.
+
+Key points:
+- Role-based login and access control
+- Dashboard and reporting modules
+- Data entry and approval workflows
+- Customer, vendor, product, and transaction modules
+- API integration with other systems
+- Export, print, and document handling
+
+Mobile Application Development:
+We develop mobile applications using Flutter for Android and iOS. These apps are useful for field teams, sales executives, service staff, delivery teams, and customers.
+
+Key points:
+- Cross-platform mobile app development
+- User-friendly UI and smooth workflows
+- API-connected live data
+- Field entry, approval, and tracking
+- Reports and notifications
+- Business-specific mobile modules
+
+CRM Development:
+We build CRM systems to help businesses manage leads, customers, follow-ups, sales pipeline, reminders, quotations, and communication history.
+
+Key points:
+- Lead capture and assignment
+- Follow-up tracking
+- Customer communication history
+- Sales pipeline view
+- Quotation and proposal tracking
+- Sales team reports
+
+ERP & Business Management Systems:
+We design ERP-style systems for businesses that need multiple departments connected in one platform, such as sales, purchase, inventory, accounts, HR, production, and management.
+
+Key points:
+- Department-wise modules
+- Approval workflows
+- Inventory and transaction control
+- Role-wise dashboards
+- MIS reports
+- Integration with Tally or external tools
+
+Dashboard & MIS Systems:
+We build dashboards that help owners and managers track business performance without depending on manual Excel reports.
+
+Key points:
+- Sales dashboards
+- Collection and outstanding reports
+- Inventory summaries
+- Team performance reports
+- Financial summaries
+- Custom charts and filters
+
+API Development & Integration:
+We connect software systems so that data can move smoothly between applications. This includes Tally integration, portal integration, CRM integration, mobile app APIs, and third-party services.
+
+Key points:
+- REST API development
+- Tally Prime integration
+- Portal-to-software data sync
+- Mobile app backend APIs
+- Third-party software integration
+- Data validation and mapping
+
+Support Ticket & Service Management Systems:
+We build systems for companies that need to manage customer complaints, service requests, support tickets, AMC calls, and team assignments.
+
+Key points:
+- Ticket creation and assignment
+- Priority and status management
+- Customer-wise service history
+- Technician or support team tracking
+- SLA and follow-up reports
+- Management dashboards
+
+Billing, Inventory & Operations Software:
+We create custom applications for businesses that need billing, inventory, stock movement, product tracking, purchase, sales, or operational workflows outside standard software.
+
+Key points:
+- Product and stock management
+- Purchase and sales workflows
+- Multi-location inventory
+- Barcode or QR-based operations
+- Reports and exports
+- Tally integration if required
+
+Software development CTA:
+Have a software idea or business process that needs automation? FlowupS Technologies can help you plan the complete logic, schema, modules, and development roadmap.
+
+------------------------------------------------------------
+PRODUCT DETAIL CONTENT
+------------------------------------------------------------
+
+CallDesk product title:
+CallDesk - Support Ticket Management System
+
+Product intro:
+CallDesk is a support ticket management system developed to help businesses manage customer support, internal service requests, complaints, and follow-ups in a structured way. It brings tickets, customers, team assignments, priorities, and reports into one simple platform.
+
+Who it is for:
+CallDesk is suitable for service businesses, software companies, support teams, AMC providers, product companies, customer care departments, and organizations that need clear tracking of customer issues.
+
+Key features:
+- Ticket creation and categorization
+- Customer-wise ticket history
+- Priority and status tracking
+- Team member assignment
+- Follow-up reminders
+- Internal notes and updates
+- Dashboard for open, pending, and closed tickets
+- Performance and workload reports
+
+Business benefits:
+- Reduces missed complaints and follow-ups
+- Improves support team accountability
+- Gives management visibility into service quality
+- Helps track recurring customer issues
+- Creates a structured support process
+- Improves customer satisfaction
+
+CTA:
+Want to organize your customer support process? Explore CallDesk by FlowupS Technologies.
+
+Sathi Connect product title:
+Sathi Connect - Seeds Portal to Tally Prime Connectivity Bridge
+
+Product intro:
+Sathi Connect is a connectivity bridge between the Seeds Portal and Tally Prime. It is designed to reduce manual data entry, improve accuracy, and make portal-to-Tally workflows easier for businesses working with seed-related operations.
+
+Who it is for:
+Sathi Connect is useful for seed businesses, distributors, dealers, and companies that need structured data transfer between the Seeds Portal and Tally Prime.
+
+Key features:
+- Seeds Portal to Tally Prime data connectivity
+- Data mapping between portal fields and Tally masters
+- Order, bill, and transaction support based on workflow
+- Reduced manual entry
+- Error reduction through structured data handling
+- Improved operational visibility
+- Tally-ready posting logic
+
+Business benefits:
+- Saves time in portal-to-Tally entry
+- Reduces manual mistakes
+- Improves consistency of records
+- Speeds up accounting and operational posting
+- Helps teams work with better control
+
+CTA:
+Need a reliable bridge between Seeds Portal and Tally Prime? Talk to FlowupS Technologies about Sathi Connect.
+
+------------------------------------------------------------
+INDUSTRY-WISE SOLUTION CONTENT
+------------------------------------------------------------
+
+Education:
+For schools and colleges, FlowupS can build Tally-based or custom software workflows for admissions, student records, fees, documents, certificates, transport, staff payroll, and reporting.
+
+Healthcare:
+For hospitals and clinics, we can support OPD/IPD billing, patient records, bed management, doctor management, receipts, discharge summaries, and hospital financial reporting.
+
+Retail & Counter Sales:
+For retail businesses, we provide POS billing, barcode/QR code billing, inventory tracking, multi-mode receipts, invoice customization, and daily sales reports.
+
+Garment & Textile:
+For garment and textile businesses, we support size, colour, design, MRP, category-wise stock, barcode billing, wholesale rate control, and garment-specific reports.
+
+Petrol Pump:
+For petrol pumps, we support daily rate updates, tank and nozzle tracking, cashier-wise sales, credit party billing, vehicle-wise reports, meter reading, and daily summary posting.
+
+Agriculture, APMC & ADAT:
+For agricultural market businesses, we support farmer purchase entry, bags and weight handling, commission, deductions, patti generation, buyer reports, and settlement workflows.
+
+Jewellery:
+For jewellery businesses, we support HUID tracking, gold/silver billing, making charges, barcode/QR code, old gold adjustment, and item movement registers.
+
+Dairy:
+For dairy operations, we support dairy software integration, milk collection sync, farmer ledger sync, rate chart integration, payment entry, feed management, and invoice posting.
+
+Distribution:
+For distributors, we can build solutions for route-wise dispatch, van sales, secondary sales, stock movement, billing, collection tracking, and MIS reporting.
+
+Manufacturing:
+For manufacturers, we support production planning, BOM-based stock journals, material requisition, batch tracking, cost centre reporting, and manufacturing entries from Excel.
+
+------------------------------------------------------------
+SEO FOR SERVICE/PRODUCT PAGES
+------------------------------------------------------------
+
+Tally page meta title:
+Tally Customization, TDL Development & Tally Integration | FlowupS
+
+Tally page meta description:
+Get custom Tally Prime solutions, TDL modules, reports, invoice customization, security controls, GST utilities, API integration, and industry-specific Tally modules from FlowupS Technologies.
+
+Software page meta title:
+Custom Software Development Company | FlowupS Technologies
+
+Software page meta description:
+FlowupS Technologies builds custom web applications, mobile apps, CRM systems, ERP modules, dashboards, APIs, and business automation software for growing businesses.
+
+Products page meta title:
+CallDesk & Sathi Connect | FlowupS Technologies Products
+
+Products page meta description:
+Explore CallDesk support ticket management system and Sathi Connect, a Seeds Portal to Tally Prime connectivity bridge by FlowupS Technologies.
+
+Final checklist:
+- Service page should not say only "Web Development" if actual focus is Tally + software + integration.
+- Tally customization should be category-wise, not random long list.
+- Product content should clearly say CallDesk and Sathi Connect are products by FlowupS Technologies.
+- Keep UI premium and compact; no childish icons/colors.

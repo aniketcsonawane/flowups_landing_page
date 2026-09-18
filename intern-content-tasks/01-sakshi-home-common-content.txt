@@ -1,0 +1,264 @@
+Important positioning:
+- Website company sathi aahe, product sathi nahi.
+- Company name: FlowupS Technologies Pvt. Ltd.
+- Products: CallDesk and Sathi Connect.
+- Brand tone: premium, business-focused, clean, practical.
+- Colors/theme existing blue-white FlowupS scheme madhech thevaychi.
+
+Your responsibility:
+Home page, common company content, CTAs, FAQs, contact details, and SEO text replace/update karaycha.
+
+Where to change:
+1. Home hero:
+   File: src/components/Hero.jsx
+
+2. Home page sections:
+   File: src/components/LandingSections.jsx
+
+3. Featured services cards:
+   File: src/components/FeaturedServices.jsx
+
+4. Header / navigation company label if needed:
+   File: src/components/Header.jsx
+
+5. Footer company intro, contact, links:
+   File: src/components/Footer.jsx
+
+6. Page title / SEO base:
+   File: index.html
+
+7. Global website metadata or page routing if needed:
+   File: src/App.jsx
+
+Use this content:
+
+------------------------------------------------------------
+COMPANY POSITIONING
+------------------------------------------------------------
+
+Brand line:
+Tally Customization, Integration & Software Development Solutions
+
+Short company intro:
+FlowupS Technologies Pvt. Ltd. is a technology company focused on Tally customization, business software development, system integration, and practical digital solutions. We help businesses simplify operations, improve reporting, automate routine work, and build software systems around their actual workflow.
+
+Detailed company intro:
+At FlowupS Technologies, we work across two strong service areas: Tally solutions and custom software development. Our team understands business logic, accounting workflows, operational processes, and real-world implementation challenges. This helps us design solutions that are practical, reliable, and easy for teams to use.
+
+We build TDL modules, Tally Prime customizations, API integrations, web applications, mobile applications, dashboards, support systems, and business automation tools. From requirement gathering to development, deployment, training, and support, we stay involved throughout the project lifecycle.
+
+Contact details:
+Email: admin@flowups.in
+Phone: +91 96654 78057 / +91 77569 23602
+Address: Padtani Complex, behind Joshi Palace, opp. Panhale Pedha, Punjabi Colony, Sangamner, Maharashtra 422605
+
+------------------------------------------------------------
+HOME PAGE CONTENT
+------------------------------------------------------------
+
+Hero title option 1:
+Tally Customization & Software Development for Growing Businesses
+
+Hero subtitle:
+FlowupS Technologies Pvt. Ltd. helps businesses build practical Tally solutions, custom software, integrations, dashboards, and support systems that match real business workflows.
+
+Hero CTA:
+Discuss Your Requirement
+
+Secondary CTA:
+Explore Our Solutions
+
+Hero title option 2:
+Business Technology Built Around Your Workflow
+
+Hero subtitle option 2:
+From Tally Prime customization to custom web and mobile applications, FlowupS Technologies designs and delivers solutions that reduce manual work, improve control, and support long-term growth.
+
+Home intro heading:
+Tally and Software Solutions Built Around Your Business
+
+Home intro paragraph:
+FlowupS Technologies works across Tally customization and custom software development. Whether you need a TDL module, Tally integration, support ticket system, mobile app, dashboard, or complete business workflow software, our team can understand your requirement and build a practical solution.
+
+Home intro expanded:
+FlowupS Technologies Pvt. Ltd. works at the intersection of business logic, Tally expertise, and software engineering. We understand that every company has a different process, approval method, reporting requirement, and operational challenge. Our role is to convert those requirements into practical technology solutions.
+
+We build Tally modules, TDL add-ons, API integrations, business software, mobile applications, dashboards, and support systems that help teams work faster and with better accuracy.
+
+CTA:
+Start a Practical Discussion
+
+------------------------------------------------------------
+CORE SERVICE CARDS FOR HOME PAGE
+------------------------------------------------------------
+
+Card 1:
+Title: Tally Customization & Integration
+Text: Custom TDL modules, Tally Prime enhancements, reporting tools, voucher controls, invoice formats, security modules, and API integrations designed for your business process.
+
+Card 2:
+Title: Custom Software Development
+Text: Web applications, mobile apps, CRM systems, ERP modules, dashboards, support systems, and automation tools built around your workflow.
+
+Card 3:
+Title: Business Process Automation
+Text: Reduce repetitive work, manual data entry, follow-ups, reporting delays, and disconnected workflows with smart automation.
+
+Card 4:
+Title: Support & Implementation
+Text: We support clients through requirement study, development, testing, deployment, training, and continuous improvement.
+
+------------------------------------------------------------
+PROCESS SECTION
+------------------------------------------------------------
+
+Section title:
+How We Work
+
+Process intro:
+Our process is designed to keep the solution practical, clear, and aligned with your business workflow. We do not begin with assumptions. We first understand your work, then design the right structure, and then develop the solution.
+
+Step 1 - Requirement Study:
+We understand your business process, current software usage, pain points, reporting needs, users, controls, and expected output.
+
+Step 2 - Logic & Schema Planning:
+We prepare the business logic, data structure, module flow, user roles, reports, and integration requirements before development starts.
+
+Step 3 - Solution Design:
+We finalize the screens, fields, approval flow, entry process, reports, print formats, and automation rules.
+
+Step 4 - Development:
+Our development team builds the TDL module, Tally customization, web application, mobile app, API, or integration as per the approved scope.
+
+Step 5 - Testing & Refinement:
+We test the solution with practical business scenarios, sample data, edge cases, user roles, and report outputs.
+
+Step 6 - Implementation & Training:
+We deploy the solution, configure it for your workflow, and train your team so they can use it confidently.
+
+Step 7 - Support & Improvement:
+After implementation, we continue to support fixes, improvements, enhancements, and future changes as your business grows.
+
+------------------------------------------------------------
+WHY CHOOSE FLOWUPS
+------------------------------------------------------------
+
+Section title:
+Why Businesses Choose FlowupS
+
+Intro:
+FlowupS Technologies combines Tally expertise, software development capability, practical business understanding, and strong client coordination. This helps us deliver solutions that are not only technically correct, but also useful in daily operations.
+
+Points:
+- Strong experience in Tally customization and business logic
+- Ability to understand complex workflows and convert them into software structure
+- Tally and custom software development under one team
+- Practical approach to requirement gathering and implementation
+- Support for both technical and business-side discussions
+- Capability to build full schemas for new software requirements
+- Experienced development team for web, mobile, TDL, and full stack projects
+- Long-term support and enhancement mindset
+- Corporate communication with practical execution
+
+------------------------------------------------------------
+SUPPORT SECTION
+------------------------------------------------------------
+
+Section title:
+Support That Continues After Delivery
+
+Paragraph:
+FlowupS Technologies believes that software delivery is not the end of the relationship. Businesses need support during adoption, training, issue resolution, version changes, and future improvements. Our team helps clients with practical support so that their solution continues to work smoothly.
+
+Support areas:
+- Tally customization support
+- TDL issue resolution
+- Software bug fixing
+- Feature enhancements
+- User training
+- Data correction guidance
+- API and integration monitoring
+- Report changes
+- Print format changes
+- Remote and client-side coordination
+
+------------------------------------------------------------
+FAQ CONTENT
+------------------------------------------------------------
+
+Q: Can FlowupS customize Tally Prime as per our business process?
+A: Yes. FlowupS Technologies develops custom TDL modules and Tally Prime customizations for billing, inventory, reports, security, approvals, industry workflows, and integrations.
+
+Q: Can you integrate Tally with our existing software?
+A: Yes. We can integrate Tally with CRM, ERP, mobile apps, web portals, e-commerce platforms, POS systems, payroll software, inventory tools, and custom applications using suitable integration methods.
+
+Q: Do you build custom software from scratch?
+A: Yes. We develop custom web applications, mobile applications, dashboards, CRM systems, ERP modules, support systems, and workflow-based business software.
+
+Q: Can you prepare the complete software logic and schema?
+A: Yes. We can study your business requirement and prepare the complete logic, module structure, data flow, user roles, reports, and development roadmap.
+
+Q: Do you provide support after implementation?
+A: Yes. We provide support for training, bug fixing, enhancements, report changes, Tally customization changes, integration monitoring, and future improvements.
+
+Q: Can you build industry-specific Tally modules?
+A: Yes. We can build Tally modules for education, hospital, garment, petrol pump, APMC/ADAT, jewellery, dairy, retail, distribution, manufacturing, and other industries.
+
+Q: Is CallDesk suitable for customer support teams?
+A: Yes. CallDesk is useful for businesses that need to manage support tickets, customer complaints, service requests, assignments, follow-ups, and support team performance.
+
+Q: What is Sathi Connect?
+A: Sathi Connect is a connectivity bridge between the Seeds Portal and Tally Prime. It helps reduce manual entry and improves data movement between portal workflows and Tally.
+
+------------------------------------------------------------
+SEO CONTENT
+------------------------------------------------------------
+
+Home page meta title:
+FlowupS Technologies Pvt. Ltd. | Tally Customization & Software Development
+
+Home page meta description:
+FlowupS Technologies provides Tally Prime customization, TDL development, Tally integration, custom software development, mobile apps, dashboards, and business automation solutions.
+
+Suggested keywords:
+- Tally customization
+- Tally Prime customization
+- TDL development
+- Tally API integration
+- Tally custom reports
+- Tally invoice customization
+- Tally security module
+- Tally integration company
+- Custom software development
+- Business software development
+- CRM development
+- ERP development
+- Flutter app development
+- Support ticket management system
+- Seeds Portal to Tally integration
+
+------------------------------------------------------------
+FINAL CTA BLOCKS
+------------------------------------------------------------
+
+CTA 1:
+Have a Tally requirement that standard software cannot handle? FlowupS Technologies can design a custom solution around your process.
+
+CTA 2:
+Planning a new business software? Share your idea with us. We can help you define the schema, modules, logic, and development roadmap.
+
+CTA 3:
+Need support for Tally, software, integration, or automation? Our team is ready to understand your workflow and suggest the right solution.
+
+One-line positioning options:
+1. Practical Tally and software solutions for real business workflows.
+2. Custom Tally, integration, and software development under one roof.
+3. Business technology designed around your process.
+4. From Tally customization to full software development, FlowupS builds what your business needs.
+5. Reliable technology solutions for accounting, operations, support, and growth.
+
+Final checklist:
+- Company name spelling must be exactly: FlowupS Technologies Pvt. Ltd.
+- Do not make website look like only CallDesk website.
+- CallDesk and Sathi Connect should be mentioned as products, not company name.
+- Keep language professional and premium.
